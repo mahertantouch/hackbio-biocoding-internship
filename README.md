@@ -7,7 +7,7 @@ The internship typically takes place online over several weeks, featuring weekly
 
 ## Stages overview
 
-### Stage 0 (\stage-zero)
+### [Stage 0] (\stage-zero)
 
 **Goal**: Presentation of the team through a Data Structure
 
