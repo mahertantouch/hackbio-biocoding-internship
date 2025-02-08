@@ -1,4 +1,4 @@
-# Instructions
+#Instructions
 
 1. Form a team of at least 5 people with different programming languages
 2. Using either R and Python. I.e, produce the solution with only one of R and Python
@@ -14,7 +14,7 @@
 5. Your code should include a final print statement that prints the organized output in a logical and understandable way
 6. Finally, create a simple video tutorial that includes all your team mate. Publish the video on linkedin and remember to tag us. We will :cœur: like it.
 
-# Modules to study:
+#Modules to study:
 
 ## R
 Stage 1: R Syntax
