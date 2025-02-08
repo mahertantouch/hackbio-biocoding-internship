@@ -1,4 +1,6 @@
-#Instructions
+*Topics Covered* : Coding Syntax, Data Types, Data Structures
+
+Instructions
 
 1. Form a team of at least 5 people with different programming languages
 2. Using either R and Python. I.e, produce the solution with only one of R and Python
